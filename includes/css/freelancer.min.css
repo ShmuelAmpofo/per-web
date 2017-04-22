@@ -90,11 +90,12 @@
     padding-top: 120px;
     padding-bottom: 120px;
     padding-bottom:120px;
+    margin-bottom:50px;
 }
     
 
 .potrico{
-    background-image: #fff;
+    background-image:("image1.jpg");
     color: #4c4c4c;
     background-size:cover;
     padding-top: 120px;
